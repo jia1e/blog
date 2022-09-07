@@ -4,3 +4,6 @@ darkmode: true
 google_analytics:
   tracking_id: G-3YTXW1R5PT
   only_pageview: false
+
+custom_file_path:
+  head: source/_data/head.njk
